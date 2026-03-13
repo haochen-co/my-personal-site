@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "陈浩的个人主页",
+    "section": "",
+    "text": "学号：2025303110111\n专业：植物营养学\n兴趣：数据分析、机器学习 ## 技能\nR 语言\nPython\nQuarto"
+  },
+  {
+    "objectID": "about.html#关于我",
+    "href": "about.html#关于我",
+    "title": "陈浩的个人主页",
+    "section": "",
+    "text": "学号：2025303110111\n专业：植物营养学\n兴趣：数据分析、机器学习 ## 技能\nR 语言\nPython\nQuarto"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "我的个人主页",
+    "section": "",
+    "text": "这是我的个人 Quarto 网站，用于分享数据科学学习笔记、项目实践与技术思考。\n\n\n\n数据可视化与探索性分析\nR 语言 & Quarto 文档技术\n个人技术博客与知识沉淀\n\n\n\n\n\n完成数据科学相关课程作业\n搭建并发布个人技术网站\n积累数据分析实战项目"
+  },
+  {
+    "objectID": "index.html#我的方向",
+    "href": "index.html#我的方向",
+    "title": "我的个人主页",
+    "section": "",
+    "text": "数据可视化与探索性分析\nR 语言 & Quarto 文档技术\n个人技术博客与知识沉淀"
+  },
+  {
+    "objectID": "index.html#近期目标",
+    "href": "index.html#近期目标",
+    "title": "我的个人主页",
+    "section": "",
+    "text": "完成数据科学相关课程作业\n搭建并发布个人技术网站\n积累数据分析实战项目"
+  }
+]
